@@ -65,6 +65,7 @@ It is recommended that you complete the final project as an individual assignmen
 
 * Please submit your Project Proposal to `Assignment #6 Project Proposal Submission Link` in the Assignments content area on Blackboard.
 * The Proposal should be submitted as a single PDF, with all descriptions, details, diagrams/images put into different sections of the document. Include an appropriate header for each section.
+* If you cannot get everything into a single PDF for some reason, include all components of your proposal in a single Blackboard submission. Make sure each file included has a relevant name and loads correctly.
 * If you submit your proposal early (at least 1 week before it is due), I will review your proposal and give you feedback if you are missing anything -- you will not lose any points if you make the necessary revisions before the due date. (I will attempt to review proposals and provide feedback for anything submitted at least 48 hours before the due date but am not making any promises).
 * If there are any issues with your proposal after the due date, you will lose points, but still receive partial credit for the assignment.
 * The normal late assignment policy applies to the Project Proposal. If you do not submit your project proposal by the late assignment deadline, you should still submit your project proposal so it can be approved and you can complete your final project.
