@@ -47,7 +47,7 @@ Your CINS465 Final Project will be graded on the following:
     * Presentation content may vary depending on the project but should include:
         * An introduction to your project (basic idea of the project)
         * A walk-through of how users could use your website/project,
-        * An overview of the goals you had for the project (what you have working at the time of the presentation and what still needs work), and 
+        * An overview of the goals you had for the project (what you have working at the time of the presentation and what still needs work), and
         * A discussion of any technical problems you have run into along the way.
 * **The Final Project Submission**
     * Your project will be graded on the following:
@@ -63,9 +63,10 @@ Your CINS465 Final Project will be graded on the following:
     * You will get access to a Google Survey after the semester ends that you will need to fill out. This will include team member feedback if you worked in a group of two. It will also ask for feedback on the project and the class, things you think should be clarified or improved for future semesters, etc.
     * Pay special attention to the question that asks you about what you learned along the way while completing your project. If your response is too general, what you learned will not be clear to me.
 
-## Final Project Submission
+## Submitting Your Final Project
 
-Submit your project through a GitHub repo -- either the CSUChico-CINS465 repo created for you OR a personal repo. If you are using a repo that I did not create for you, make sure to include me as a collaborator, so I can see your project.<br>
+* Submit your project through a GitHub repo -- either the CSUChico-CINS465 repo created for you OR a personal repo. If you are using a repo that I did not create for you, make sure I can see your project (i.e. if it is private, add me as a collaborator).
+* Please submit a link to your Final Project on GitHub (or another source code management service) to `Assignment #7 Final Project Submission Link` in the Assignments content area on Blackboard.
 
 **Reminder**: Your final project may be public, but your other CINS465 assignments need to be kept private.
 
