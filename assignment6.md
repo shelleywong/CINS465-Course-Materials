@@ -44,7 +44,7 @@ It is recommended that you complete the final project as an individual assignmen
     * Make sure to specify how you are going to address the minimum complexity component of the final project.
 * Basic drawings or diagrams of **what pages your website will provide for user(s)**
     * This component of the proposal is similar to a website wireframe, a visual guide that represents the skeletal framework of a website.
-    * May be hand drawn or completed with the wireframing tool of your choice. 
+    * May be hand drawn or completed with the wireframing tool of your choice.
     * It's ok if this component does not look professional, but I expect you to have given some thought to how people will interact with your site (page layout, interface elements, navigation).
     * You should also make sure to diagram/discuss transitions between pages (how does everything work together?)
 * A basic **database design** diagram or description
@@ -65,7 +65,7 @@ It is recommended that you complete the final project as an individual assignmen
 
 * Please email me a pdf (from your csuchico email) that contains all the above details as different sections.
 * You should have `CINS465 Proposal` as the subject for the email.
-* If you submit your proposal early (at least 48 hours before it is due), I can review your proposal and give you feedback if you are missing anything -- you will not lose any points if you make the necessary revisions before the due date.
+* If you submit your proposal early (at least 1 week to 48 hours before it is due), I can review your proposal and give you feedback if you are missing anything -- you will not lose any points if you make the necessary revisions before the due date.
 * If there are any issues with your proposal after the due date, you will lose points but still receive partial credit.
 * The normal late assignment policy applies to the Project Proposal. If you do not submit your project proposal by the late assignment deadline, you should still submit your project proposal so it can be approved and you can complete your final project.
 
