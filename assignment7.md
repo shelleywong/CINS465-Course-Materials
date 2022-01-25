@@ -42,8 +42,9 @@ Your CINS465 Final Project will be graded on the following:
     * During class lectures, I will use PollEverywhere to ask questions, get feedback, and track attendance. Partway through the semester, class time will switch from lectures to lab help sessions.
     * To receive full credit for this component, you should plan on attending at least 75% of class lectures and at least 75% of lab help sessions.
     * These lab help sessions will (1) double as a midpoint check-in to confirm that you are making progress on your projects and (2) offer much needed time for you/your group to get any potential development road blocks resolved.
+    * If you cannot make a lab help session and want to receive credit for that session, you will have the option to submit a form that gives an update on your project progress as an alternative. You are not required to fill out the progress forms if you attend the lab help sessions; however, you may find it beneficial to fill out the forms so you have notes for your presentation and the final project feedback form (e.g. tasks completed, technical problems you ran into, etc).
 * **Your Project Presentation**
-    * Near the end of the semester and on the day scheduled for the CINS465 final, we will have presentations of your projects.
+    * During the last few weeks of the semester and on the day scheduled for the CINS465 final, we will have project presentations.
     * Presentation content may vary depending on the project but should include:
         * An introduction to your project (basic idea of the project)
         * A walk-through of how users could use your website/project,
@@ -65,8 +66,9 @@ Your CINS465 Final Project will be graded on the following:
 
 ## Submitting Your Final Project
 
-* Submit your project through a GitHub repo -- either the CSUChico-CINS465 repo created for you OR a personal repo. If you are using a repo that I did not create for you, make sure I can see your project (i.e. if it is private, add me as a collaborator).
-* Please submit a link to your Final Project on GitHub (or another source code management service) to `Assignment #7 Final Project Submission Link` in the Assignments content area on Blackboard.
+* Submit your project through a **GitHub repo** (or GitLab, BitBucket, etc) -- either the CSUChico-CINS465 repo created for you OR a personal repo. If you are using a repo that I did not create for you, make sure I can see your project (i.e. if it is private, add me as a collaborator).
+* Submit the **Final Project Feedback form** (Google Survey, link in the assignments content area of Blackboard) for your project.
+* Submit a link to your Final Project on GitHub (or another source code management service) to `Assignment #7 Final Project Submission Link` in the Assignments content area on Blackboard, so that I have a place to post your final project grade and overall grade for the semester.
 
 **Reminder**: Your final project may be public, but your other CINS465 assignments need to be kept private.
 
