@@ -13,6 +13,7 @@
 * [Git Basics Video](https://www.youtube.com/watch?v=0JgyAJMvZlY) - Basic tutorial on using git for version control, recorded by Dr. Bryan Dixon on Spring 2020
 * [Learn Git Branching](https://learngitbranching.js.org/) - Excellent web tutorial that works through a variety of use cases for git, including the use of branches.
 * [GitHub](https://github.com/) - Version Control & Open Source Code Repository (Education Accounts are Free)
+  * [GitHub Student Developer Pack](https://education.github.com/pack) -- Offers free access to tools and services used by professional developers, including Travis CI
 * [GitLab](https://gitlab.com/) - Version Control with baked in CI/CD (Unlimited private/public repos for all)
 
 ## Development Environment
