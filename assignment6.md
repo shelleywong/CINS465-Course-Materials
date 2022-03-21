@@ -14,9 +14,9 @@ For the final project, you should have a website that does the following:
     * Ideally, if data presented to the user has changed, they should get an updated version without refreshing page
 * **Uses templates**
     * You may use [Django's template language](https://docs.djangoproject.com/en/4.0/topics/templates/) or another template system, but you need a way to render content dynamically in the views.
-* Has a **minimum complexity** (meaning you've learned something beyond what is covered in class)
+* Uses WebSockets or WebAssembly -- this **minimum complexity** requirement means you've learned something beyond what is covered in class, specifically related to a modern web protocol/standard)
     * Implementing a blog, twitter, and/or forum is not enough -- must do something beyond this type of functionality.
-    * Most students usually meet this minimum complexity by using [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), usually in the form of a real time chat integrated into their project in some way. [Django Channels](https://channels.readthedocs.io/en/stable/) is a good starting point.
+    * Most students meet this minimum complexity by using [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API), usually in the form of a real time chat integrated into their project in some way. [Django Channels](https://channels.readthedocs.io/en/stable/) is a good starting point.
     * This could also be met by a more-than-minimal use of [WebAssembly](https://webassembly.org/).
 * Is **interesting** or **useful**.
     * Doesn't have to be a completely original idea, but should be unique in some way.
