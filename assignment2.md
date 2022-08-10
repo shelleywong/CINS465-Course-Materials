@@ -17,7 +17,7 @@ For this assignment, you will get started with making a simple standalone Django
 
 ## Submitting Assignment 2
 
-If you haven't already [created your CINS465 GitHub repo](https://www.bryancdixon.com/spring/2022/cins/465/repo/), you'll need the GitHub Token given out in lecture to do so.
+If you haven't already [created your CINS465 GitHub repo](https://www.bryancdixon.com/fall/2022/cins/465/repo/), you'll need the GitHub Token given out in lecture to do so.
 
 Your code should be submitted to your CINS465 repo on a branch named `assignment2` -- make sure your case is **identical** for your branch name, or I may not find/grade your submission. To do this, you can complete the following in your CINS465 repo directory (it assumes you want to add all the code in the directory):
 

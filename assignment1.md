@@ -27,7 +27,7 @@ Hackerrank's [Scoring Documentation](https://www.hackerrank.com/scoring)
 
 ## Submitting Proof
 
-If you haven't already [created your CINS465 GitHub repo](https://www.bryancdixon.com/spring/2022/cins/465/repo/), you'll need the GitHub Token given out in lecture to do so.
+If you haven't already [created your CINS465 GitHub repo](https://www.bryancdixon.com/fall/2022/cins/465/repo/), you'll need the GitHub Token given out in lecture to do so.
 
 ## Proofs
 
