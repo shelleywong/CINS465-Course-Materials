@@ -59,7 +59,7 @@ $ git branch
 ```
 > Note: If a git command is not working, make sure that you are working in a directory that contains a .git subdirectory
 
-Should see something like this (type `q` to exit):
+You should see something like this (type `q` to exit) -- the `*` indicates which branch you are currently on:
 ```
 * main
 (END)
@@ -79,7 +79,7 @@ Switched to a new branch 'assignment0'
 (assignment0) $ git push --set-upstream origin assignment0  # Push code up to assignment0 branch on remote
 ```
   * Note: You only need to include `--set-upstream origin assignment0` once per branch. After doing this once, you can simply use: `git push`
-  * Before I add, commit, and push changes, I like to use the `git status` and `git diff` commands to confirm the changes I have made -- this step is optional, but it helps me know what to write in my commit message and be sure that I am only saving changes that I want to be saved.
+  * Before I add, commit, and push changes, I like to use the `git status` and `git diff` commands to confirm the changes I have made -- these steps are optional, but they help me know what to write in my commit message and be sure that I am only saving changes that I want to be saved.
 * When done with this task/assignment, return to the main branch, merge the task branch history into the main branch, and push changes to the main branch.
 ```
 (assignment0) $ git checkout main
@@ -98,7 +98,8 @@ For this assignment, you will need to create a simple website that serves as a b
 
 For this assignment, your website will basically live on your local computer. Put everything related to this website in a directory called `assignment0`. Within this folder, you will have one .html file (at minimum). Optionally, you may have some subdirectories to hold `scripts` (.js files), `styles` (.css files), and/or `images` (e.g. jpeg, png). You will be able to view the html file in the browser. It will probably look like it was made in the 90s.<br>
 
-To view your website in a browser, figure out the path to your assignment0 directory:
+**To view your website (local html file) in a browser:**<br>
+Figure out the path to your assignment0 directory:
 ```
 $ pwd
 /Users/shelleywong/repos/CINS465-test-repo-f22/assignment0
@@ -135,7 +136,7 @@ As you make updates to your website, it may help to regularly reload the page in
   * Select an element and set the text of the element using querySelector()
   * Declare at least two variables of different types
   * Use at least one conditional (e.g. an if-else statement)
-  * Create at least one function that will run when an element is clicked (you may want to use addEventListener() or an onclick event)  
+  * Create at least one function that will run when an element is clicked (you may want to use addEventListener() or an onclick event)
 
 ### Reference: Mozilla's MDN web docs
 
