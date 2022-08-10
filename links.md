@@ -12,8 +12,11 @@
 
 * [Git Basics Video](https://www.youtube.com/watch?v=0JgyAJMvZlY) - Basic tutorial on using git for version control, recorded by Dr. Bryan Dixon on Spring 2020
 * [Learn Git Branching](https://learngitbranching.js.org/) - Excellent web tutorial that works through a variety of use cases for git, including the use of branches.
+* [GitHub's git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+* [GitLab's git cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 * [GitHub](https://github.com/) - Version Control & Open Source Code Repository (Education Accounts are Free)
   * [GitHub Student Developer Pack](https://education.github.com/pack) -- Offers free access to tools and services used by professional developers, including Travis CI
+  * [GitHub's instructions for connecting with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh) -- I find their sections on Generating a new SSH key and Adding a new SSH key to your GitHub account to be particularly useful.
 * [GitLab](https://gitlab.com/) - Version Control with baked in CI/CD (Unlimited private/public repos for all)
 
 ## Development Environment
