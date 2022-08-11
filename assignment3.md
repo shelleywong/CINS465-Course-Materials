@@ -4,11 +4,19 @@ Simple assignment to help you start working with [Django templates](https://docs
 
 ## Assignment Expectations
 
-* Your website needs to display "CINS465 Hello World" via template variable.
+Note: you may find the Django documentation for [Templates](https://docs.djangoproject.com/en/4.1/topics/templates/) and [How to manage static files](https://docs.djangoproject.com/en/4.1/howto/static-files/) useful for completing this assignment.<br>
+
+* Your website needs to display "CINS465 Hello World" via **Django Template Variable**.
     * Note that this is different than the instructions for assignment 2 -- you **must** use a template variable. If the message is statically defined in an HTML template, you will not get credit.
+    * A template variable outputs a value from context; thus, you should also have a view that contains `context` (a dictionary-like object for mapping keys to values)
+    * To complete this step, make sure you have a `templates/` folder in your app directory and have included the name of your app in the INSTALLED_APPS in the settings file
+* You need to include an example of using a **Django Template Tag** to perform programming logic (i.e. execute an if statement or a for loop)
+* You must use **template inheritance**
+  * You should have a base "skeleton" template (name this file base.html) that contains common elements of your site and defines blocks that child templates can override.
+  * You should have at least one child template that extends base.html
 * You use CSS and/or JavaScript to stylize the page.
-    * I recommend using [Foundation 6](https://get.foundation/sites/docs/).
-* You host at least one static file (e.g. images, JavaScript, CSS) and use the static file(s) embedded in your HTML template.
+    * I recommend using [Foundation 6](https://get.foundation/sites/docs/) or another responsive front-end framework.
+* You must host at least two different types of static files (e.g. images, JavaScript, CSS) and use the static files embedded in your HTML template.
 * You submit your assignment to GitHub correctly.
 * You should be able to run the development server and view the site on your local machine at http://localhost:8000/. For more information on setting up routes in Django, please see [the URL dispatcher documentation](https://docs.djangoproject.com/en/4.0/topics/http/urls/).
 
