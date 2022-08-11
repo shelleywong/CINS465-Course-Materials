@@ -13,6 +13,8 @@ For this assignment, you will practice working with the Model-View-Controller (M
 
 ## Submitting Assignment 4
 
+You should have your code set up such that, when cloned in your folder, it can be run directly via `python manage.py runserver`. Make sure to include any Python packages/libraries/dependencies in a requirements.txt file in your root directory. You can containerize your code via Docker (this is optional, but recommended). If you choose to do this, you should have a Dockerfile in your root directory and a docker-compose.yml in your root directory from which your project can be built and launched.<br>
+
 Your code should be submitted to your CINS465 repo on a branch named `assignment4` -- make sure your case is **identical** for your branch name, or I may not find/grade your submission. To do this, you can complete the following in your CINS465 repo directory (it assumes you want to add all the code in the directory):
 
 ```
@@ -22,4 +24,4 @@ git commit -m "Assignment 4 Submission"  # Commit changes to branch
 git push --set-upstream origin assignment4  # Push code up to assignment4 branch on remote
 ```
 
-You should have your code set up such that, when cloned in your folder, it can be run directly via `python manage.py runserver`. Make sure to include any Python packages/libraries/dependencies in a requirements.txt file in your root directory. You can containerize your code via Docker (this is optional, but recommended). If you choose to do this, you should have a Dockerfile in your root directory and a docker-compose.yml in your root directory from which your project can be built and launched.
+After you create the `assignment4` branch and add, commit, and push updates to this branch, you may want to merge the changes with the `main` branch and start any future branches from the latest version of your code. This can help ensure that the history of your git repo remains consistent.

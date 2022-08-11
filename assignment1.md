@@ -54,4 +54,6 @@ git commit -m "Assignment 1 Submission"  #Commit changes to branch
 git push origin assignment1  #Push code up to assignment1 branch on remote
 ```
 
-> Note: I recommend putting assignments 0 and 1 in directories named assignment0 and assignment1, respectively. Starting with assignment 2, you will begin creating a Django web app. You do not need to create separate folders for assignments 2 through 5 -- these assignments build on each other, and there is no need to start from scratch with a new project for each assignment.
+> Note: I recommend putting assignments 0 and 1 in directories named assignment0 and assignment1, respectively. Starting with assignment 2, you will begin creating a Django web app. You do not need to create separate folders for assignments 2 through 5 -- these assignments build on each other, and there is no need to start from scratch with a new project/directory for each assignment.
+
+After you create the `assignment1` branch and add, commit, and push updates to this branch, you may want to merge the changes with the `main` branch and start any future branches from the latest version of your code. This can help ensure that the history of your git repo remains consistent.
