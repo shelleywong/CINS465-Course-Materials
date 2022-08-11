@@ -128,15 +128,18 @@ As you make updates to your website, it may help to regularly reload the page in
   * Update the font (e.g. change the font family or font size to something other than the default)
   * use padding in some way (other than 0)
   * use a margin in some way (other than 0)
-  * add style to an html element (impacts all elements of this type)
+  * add style to an HTML element (impacts all elements of this type)
   * add style to a class (impacts all elements with a specific class attribute)
   * add style to an element with a given id
 * Basic JavaScript (can be internal or an external script)
   * JavaScript comment
-  * Select an element and set the text of the element using querySelector()
-  * Declare at least two variables of different types
-  * Use at least one conditional (e.g. an if-else statement)
-  * Create at least one function that will run when an element is clicked (you may want to use addEventListener() or an onclick event)
+  * Writes to an HTML element
+    * e.g. by using querySelector() and textContext or by using getElementById() and innerHTML
+  * Declare and use at least two variables of different types
+  * Use at least one conditional (i.e. if-else statement) or loop (i.e. while or for loop)
+  * Create an Event Handler
+    * Create at least one function that will run based on activity in the browser (e.g. when a user clicks an HTML element, pushes a keyboard key, or moves the mouse over an element)
+    * Hint: you may want to use addEventListener() or an onclick event
 
 ### Reference: Mozilla's MDN web docs
 
