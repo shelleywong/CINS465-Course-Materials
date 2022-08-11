@@ -1,12 +1,17 @@
 # Assignment #4: Django Data Driven Page
 
-For this assignment, you will practice working with the Model-View-Controller (MVC) software design pattern (Django models, templates, and views). You will need to get a simple page working with a [Django Model](https://docs.djangoproject.com/en/4.0/topics/db/models/), [Django form](https://docs.djangoproject.com/en/4.0/topics/forms/), and a [template](https://docs.djangoproject.com/en/4.0/ref/templates/language/) built from your model.
+For this assignment, you will practice working with the Model-View-Controller (MVC) software design pattern (Django models, templates, and views). You will need to get a simple page working with a [Django Model](https://docs.djangoproject.com/en/4.1/topics/db/models/), [Django form](https://docs.djangoproject.com/en/4.1/topics/forms/), and a [template](https://docs.djangoproject.com/en/4.1/ref/templates/language/) built from your model.
 
 ## Assignment Expectations
 
-* You have created at least one Django model.
-* You have created at least one form.
-* The form should accept user input. When the form is submitted, it should send data to a server to create/update a resource (i.e. the form submission should add or change a model instance). The view/HTML template should update based on the model changes.
+* You have created at least one model that inherits from the Django Model.
+    * Your model should contain at least two fields (class attributes) of different data types
+    * You should include at least two field-specific arguments (e.g. max_length for a CharField)
+    * Reminder: each model contains an auto-incrementing primary key by default, and I recommend that you do NOT specify a custom primary key
+* You have created at least one form that inherits from the Django Form.
+    * The form should be rendered in a template, and it should accept user input.
+    * When the form is submitted, it needs to send data to a server to create/update a resource (i.e. the form submission should add or change a model instance).
+    * The view/HTML template should update based on the model changes. You should use the GET and POST HTTP methods appropriately.
 * You have shown some creativity.
 * You submit your assignment to GitHub correctly.
 * You should be able to run the development server and view the site on your local machine at http://localhost:8000/. For more information on setting up routes in Django, please see [the URL dispatcher documentation](https://docs.djangoproject.com/en/4.0/topics/http/urls/).
