@@ -7,9 +7,13 @@ For this assignment, you will get started with making a simple standalone Django
 * You are able to create and use a [Python virtual environment](https://docs.python.org/3/tutorial/venv.html) and/or a [Docker container](https://docs.docker.com/)
 * You have downloaded and installed [Django](https://www.djangoproject.com/)
     * Use the latest release
-* You have created a basic Django project
-    * You may find it helpful to start with the Django documentation for [writing your first Django app](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
+* You have created a basic Django project and an app within your project
+    * An app is a web application that does something. A project should contain a collection of settings for an instance of Django (database configuration, Django-specific options, app-specific settings) and at least one app for a particular website (a project can contain multiple apps).
+    * You may find it helpful to start with the Django documentation for [writing your first Django app](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)
+    * Hint: Creating a project requires that you run the django-admin `startproject` command
+    * Hint: Creating an app requires that you run the python manage.py `startapp` command
 * Your website displays the message: "CINS465 Hello World"
+  * To complete this step, you should have at least 1 view, and the view should be mapped to a URL
 * You are able to submit your assignment to GitHub correctly
     * Containerized is optional
     * Must be submitted to the correct branch
