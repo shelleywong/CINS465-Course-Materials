@@ -1,10 +1,8 @@
 # Assignment #3: Django Templates and Static Files
 
-Simple assignment to help you start working with [Django templates](https://docs.djangoproject.com/en/4.0/topics/templates/) and [static files](https://docs.djangoproject.com/en/4.0/howto/static-files/).
+Simple assignment to help you start working with [Django templates](https://docs.djangoproject.com/en/4.1/topics/templates/) and [static files](https://docs.djangoproject.com/en/4.1/howto/static-files/).
 
 ## Assignment Expectations
-
-Note: you may find the Django documentation for [Templates](https://docs.djangoproject.com/en/4.1/topics/templates/) and [How to manage static files](https://docs.djangoproject.com/en/4.1/howto/static-files/) useful for completing this assignment.<br>
 
 * Your website needs to display "CINS465 Hello World" via **Django Template Variable**.
     * Note that this is different than the instructions for assignment 2 -- you **must** use a template variable. If the message is statically defined in an HTML template, you will not get credit.
