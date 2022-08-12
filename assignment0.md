@@ -4,7 +4,7 @@ The goal of this assignment is to make sure you have set up your CINS465 GitHub 
 
 **Assignment Expectations:**
 * You have generated a CINS465 GitHub repo (Part 1)
-* You have created a basic website and practiced using HTML, CSS, and JavaScript (Part 2)
+* You have created a basic website and practiced using HTML and CSS (Part 2)
 
 ## Part 1: Generate your CINS465 GitHub repo
 
@@ -92,9 +92,9 @@ Switched to a new branch 'assignment0'
 
 To be prepared for this class, you will want to familiarize yourself with HTML5, CSS/CSS3, and Javascript/JS. At one point, this material was effectively its own course (CINS110, a prerequisite to CINS465); however, CINS110 has been removed as a prerequisite, so you are responsible for learning HTML5, CSS, and JS mostly on your own. HTML is the language for building web pages, CSS is the language for styling web pages, and JavaScript is the most widely used client-side scripting language. Most modern websites use libraries or frameworks built on top of these languages, and the focus in this class will be applying these tools in relation to a web framework.
 
-### Create an intro website to practice HTML, CSS, and JavaScript
+### Create an intro website to practice HTML and CSS
 
-For this assignment, you will need to create a simple website that serves as a brief introduction to you or something that interests you. Be creative, just make sure you include the requirements listed below.<br>
+For this assignment, you will need to create a simple website that serves as a brief introduction to you or something that interests you. Be creative, just make sure you include the requirements listed below. For this assignment, focus on HTML and CSS (JavaScript is optional right now -- later in the semester, for Assignment 5, you will be required to use JavaScript) <br>
 
 For this assignment, your website will basically live on your local computer. Put everything related to this website in a directory called `assignment0`. Within this folder, you will have one .html file (at minimum). Optionally, you may have some subdirectories to hold `scripts` (.js files), `styles` (.css files), and/or `images` (e.g. jpeg, png). You will be able to view the html file in the browser. It will probably look like it was made in the 90s.<br>
 
@@ -131,15 +131,6 @@ As you make updates to your website, it may help to regularly reload the page in
   * add style to an HTML element (impacts all elements of this type)
   * add style to a class (impacts all elements with a specific class attribute)
   * add style to an element with a given id
-* Basic JavaScript (can be internal or an external script)
-  * JavaScript comment
-  * Writes to an HTML element
-    * e.g. by using querySelector() and textContext or by using getElementById() and innerHTML
-  * Declare and use at least two variables of different types
-  * Use at least one conditional (i.e. if-else statement) or loop (i.e. while or for loop)
-  * Create an Event Handler
-    * Create at least one function that will run based on activity in the browser (e.g. when a user clicks an HTML element, pushes a keyboard key, or moves the mouse over an element)
-    * Hint: you may want to use addEventListener() or an onclick event
 
 ### Reference: Mozilla's MDN web docs
 

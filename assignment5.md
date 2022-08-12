@@ -1,12 +1,22 @@
 # Assignment #5: Client Side Programming
 
-For this assignment, you should use JavaScript to program the behavior of a web page -- add some dynamic functionality (something interesting that happens on the front-end, so your website is not all static).
+For this assignment, you need to use JavaScript to program the behavior of a web page and add some dynamic functionality (something interesting that happens on the front-end, so your website is not all static).
 
 ## Assignment Expectations
 
-* You have done something to demonstrate the usefulness of JavaScript.
-    * Ideally you should live update data from your back-end without the client side having to refresh the page.
-    * For users visiting your website (or me grading your website), make sure it is clear what your JavaScript does and why it's useful. That is, when I load your index/homepage, I shouldn't have to search for the JavaScript -- it should be clear how I can use your website.
+* Uses JavaScript (JS) in a way that demonstrates the usefulness of JavaScript.
+  * For users visiting your website (or me grading your website), make sure it is clear what your JavaScript does and why it's useful. That is, when I load your index/homepage, I shouldn't have to search for the JavaScript -- it should be clear how I can use your website.
+  * May use an internal script, but must include at least one external JS script
+  * Includes a JavaScript comment
+  * Writes to an HTML element
+    * e.g. by using querySelector() and textContext or by using getElementById() and innerHTML
+  * Declares and uses at least two variables of different types
+  * Uses at least one conditional (i.e. if-else statement) or loop (i.e. while or for loop)
+  * Creates and uses an Event Handler
+    * Create at least one function that will run based on activity in the browser (e.g. when a user clicks an HTML element, pushes a keyboard key, or moves the mouse over an element)
+    * Hint: you may want to use addEventListener() or an onclick event
+  * Live updates data from your back-end without the client side having to refresh the page.
+    * One way to complete this component is to create a JSON version of the data from a model and use [vue.js](https://vuejs.org/) and [Axios](https://axios-http.com/docs/intro) to get the data and update our website.
 * You have shown some creativity.
 * You submit your assignment to GitHub correctly.
 * You should be able to run the development server and view the site on your local machine at http://localhost:8000/. For more information on setting up routes in Django, please see [the URL dispatcher documentation](https://docs.djangoproject.com/en/4.0/topics/http/urls/).
