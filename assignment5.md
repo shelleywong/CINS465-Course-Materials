@@ -15,8 +15,8 @@ For this assignment, you need to use JavaScript to program the behavior of a web
   * Creates and uses an Event Handler
     * Create at least one function that will run based on activity in the browser (e.g. when a user clicks an HTML element, pushes a keyboard key, or moves the mouse over an element)
     * Hint: you may want to use addEventListener() or an onclick event
-  * Live updates data from your back-end/Model without the user having to refresh the page.
-    * One way to complete this component is to create a JSON version of the data from a model and use [vue.js](https://vuejs.org/) and [Axios](https://axios-http.com/docs/intro) to get the data and update our website.
+  * Auto updates data from your back-end/Model without the user having to refresh the page.
+    * One way to complete this component is to create a JSON version of the data from a model and use [vue.js](https://vuejs.org/) and [Axios](https://axios-http.com/docs/intro) to get the data and update our website at set intervals, so the user does not have to reload the page to check if there is any new data.
 * You have shown some creativity.
 * You submit your assignment to GitHub correctly.
 * You should be able to run the development server and view the site on your local machine at http://localhost:8000/. For more information on setting up routes in Django, please see [the URL dispatcher documentation](https://docs.djangoproject.com/en/4.0/topics/http/urls/).
