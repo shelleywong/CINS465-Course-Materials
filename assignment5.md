@@ -15,7 +15,7 @@ For this assignment, you need to use JavaScript to program the behavior of a web
   * Creates and uses an Event Handler
     * Create at least one function that will run based on activity in the browser (e.g. when a user clicks an HTML element, pushes a keyboard key, or moves the mouse over an element)
     * Hint: you may want to use addEventListener() or an onclick event
-  * Live updates data from your back-end without the client side having to refresh the page.
+  * Live updates data from your back-end without the user having to refresh the page.
     * One way to complete this component is to create a JSON version of the data from a model and use [vue.js](https://vuejs.org/) and [Axios](https://axios-http.com/docs/intro) to get the data and update our website.
 * You have shown some creativity.
 * You submit your assignment to GitHub correctly.
